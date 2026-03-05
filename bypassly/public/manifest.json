@@ -1,0 +1,16 @@
+{
+  "name": "bypassly",
+  "short_name": "bypassly",
+  "description": "bypassly — fast, private web proxy",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111e2f",
+  "theme_color": "#111e2f",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}
